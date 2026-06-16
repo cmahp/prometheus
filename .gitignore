@@ -1,0 +1,11 @@
+# 排除二进制文件和压缩包
+*.tar.gz
+prometheus-3.5.0.linux-arm64/
+alertmanager-0.33.0.linux-arm64/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
